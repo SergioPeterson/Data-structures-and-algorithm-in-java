@@ -1,5 +1,5 @@
 import java.util.*;
-public class runner 
+public class MAIN 
 {
 	public static void main(String[] args) 
     {
